@@ -1,0 +1,14 @@
+C:\Users\51946\Desktop\ClasesIS-281\Arreglos Y Recursividad\EJERCICIO-08\bin\Debug\net8.0\EJERCICIO-08.exe
+C:\Users\51946\Desktop\ClasesIS-281\Arreglos Y Recursividad\EJERCICIO-08\bin\Debug\net8.0\EJERCICIO-08.deps.json
+C:\Users\51946\Desktop\ClasesIS-281\Arreglos Y Recursividad\EJERCICIO-08\bin\Debug\net8.0\EJERCICIO-08.runtimeconfig.json
+C:\Users\51946\Desktop\ClasesIS-281\Arreglos Y Recursividad\EJERCICIO-08\bin\Debug\net8.0\EJERCICIO-08.dll
+C:\Users\51946\Desktop\ClasesIS-281\Arreglos Y Recursividad\EJERCICIO-08\bin\Debug\net8.0\EJERCICIO-08.pdb
+C:\Users\51946\Desktop\ClasesIS-281\Arreglos Y Recursividad\EJERCICIO-08\obj\Debug\net8.0\EJERCICIO-08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51946\Desktop\ClasesIS-281\Arreglos Y Recursividad\EJERCICIO-08\obj\Debug\net8.0\EJERCICIO-08.AssemblyInfoInputs.cache
+C:\Users\51946\Desktop\ClasesIS-281\Arreglos Y Recursividad\EJERCICIO-08\obj\Debug\net8.0\EJERCICIO-08.AssemblyInfo.cs
+C:\Users\51946\Desktop\ClasesIS-281\Arreglos Y Recursividad\EJERCICIO-08\obj\Debug\net8.0\EJERCICIO-08.csproj.CoreCompileInputs.cache
+C:\Users\51946\Desktop\ClasesIS-281\Arreglos Y Recursividad\EJERCICIO-08\obj\Debug\net8.0\EJERCICIO-08.dll
+C:\Users\51946\Desktop\ClasesIS-281\Arreglos Y Recursividad\EJERCICIO-08\obj\Debug\net8.0\refint\EJERCICIO-08.dll
+C:\Users\51946\Desktop\ClasesIS-281\Arreglos Y Recursividad\EJERCICIO-08\obj\Debug\net8.0\EJERCICIO-08.pdb
+C:\Users\51946\Desktop\ClasesIS-281\Arreglos Y Recursividad\EJERCICIO-08\obj\Debug\net8.0\EJERCICIO-08.genruntimeconfig.cache
+C:\Users\51946\Desktop\ClasesIS-281\Arreglos Y Recursividad\EJERCICIO-08\obj\Debug\net8.0\ref\EJERCICIO-08.dll
